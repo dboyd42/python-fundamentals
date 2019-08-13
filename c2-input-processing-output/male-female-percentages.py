@@ -4,7 +4,7 @@
 # Program: Male and Female Percentages
 # Description: This program dispalyst the percentage of males and females in a
 #              group/class.
-# Status: Incomplete
+# Status: Complete
 # Date: 2019/08/13
 
 # Get data
