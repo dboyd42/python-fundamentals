@@ -10,7 +10,7 @@ output.
 +--------------------------------+---------------------------------------+
 | Program                        | Description                           |
 +================================+=======================================+
-| Celsius to Farenheit Convertor | Converts \*C to \*F                   |
+| Celsius to Farenheit Convertor | Converts celsius to farenheit         |
 +--------------------------------+---------------------------------------+
 | Distance Traveled              | Displays calculated distances         |
 +--------------------------------+---------------------------------------+
@@ -20,7 +20,7 @@ output.
 +--------------------------------+---------------------------------------+
 | Miles per Gallon               | Calculates MPG                        |
 +--------------------------------+---------------------------------------+
-| Personal Infor                 | Displays PII thorugh print statements |
+| Personal Information           | Displays PII thorugh print statements |
 +--------------------------------+---------------------------------------+
 | Sales Prediction               | Calculates profits based off gross    |
 +--------------------------------+---------------------------------------+
