@@ -1,0 +1,29 @@
+C3: Decision Structre and Boolean Logic
+#####
+:Author: David Boyd
+:Date: 2019/08
+
+This chapter covers relational operators and Boolean expressions through the
+flow of decision structures.
+
++---------------------------+---------------------------------------------------------+
+| Program                   | Description                                             |
++===========================+=========================================================+
+| Age Classifier            | Classifies an age group based off inputted age          |
++---------------------------+---------------------------------------------------------+
+| Areas of Rectangles       | Determines which of two rectangles has the greater area |
++---------------------------+---------------------------------------------------------+
+| Color Mixer               | Determines secondary based off primary colors           |
++---------------------------+---------------------------------------------------------+
+| Days of the Week          | Displays corresponding days of week to numbers 1-7      |
++---------------------------+---------------------------------------------------------+
+| Hotdof Cookout Calculator | Determines number of hotdog and bun packages based off  |
+|                           | number of attendees and their appetite                  |
++---------------------------+---------------------------------------------------------+
+| Magic Dates               | Determines if a date's month times its day is equal to  |
+|                           | its year                                                |
++---------------------------+---------------------------------------------------------+
+| Mass and Weight           | Calculates an objects weight based off its mass         |
++---------------------------+---------------------------------------------------------+
+| Roman Numerals            | Converts number 1-10 to Roman numerals                  |
++---------------------------+---------------------------------------------------------+
