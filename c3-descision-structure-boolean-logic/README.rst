@@ -1,4 +1,4 @@
-C3: Decision Structre and Boolean Logic
+C3: Decision Structure and Boolean Logic
 #####
 :Author: David Boyd
 :Date: 2019/08
