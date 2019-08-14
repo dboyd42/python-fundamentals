@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # Copyright 2019 David Boyd, all rights reserved
 
-# Program: Roulette Wheel Colands
-# Description: Displays the pocket coland based off the roulette wheel number.
+# Program: Roulette Wheel Colors
+# Description: Displays the pocket color based off the roulette wheel number.
 # Status: Complete
 # Date: 2019/08/14
 

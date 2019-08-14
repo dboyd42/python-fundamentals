@@ -17,7 +17,7 @@ flow of decision structures.
 +---------------------------+---------------------------------------------------------+
 | Days of the Week          | Displays corresponding days of week to numbers 1-7      |
 +---------------------------+---------------------------------------------------------+
-| Hotdof Cookout Calculator | Determines number of hotdog and bun packages based off  |
+| Hotdog Cookout Calculator | Determines number of hotdog and bun packages based off  |
 |                           | number of attendees and their appetite                  |
 +---------------------------+---------------------------------------------------------+
 | Magic Dates               | Determines if a date's month times its day is equal to  |
@@ -25,5 +25,9 @@ flow of decision structures.
 +---------------------------+---------------------------------------------------------+
 | Mass and Weight           | Calculates an objects weight based off its mass         |
 +---------------------------+---------------------------------------------------------+
+| Money Counting Game       | A change-counting game                                  |
++---------------------------+---------------------------------------------------------+
 | Roman Numerals            | Converts number 1-10 to Roman numerals                  |
++---------------------------+---------------------------------------------------------+
+| Roulette Wheel Color      | Displays the pocket color from a roulette wheel         |
 +---------------------------+---------------------------------------------------------+
