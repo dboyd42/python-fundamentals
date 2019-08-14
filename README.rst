@@ -11,7 +11,7 @@ This is my repository for end-of-chapter programming exercises from the book,
 +============+=========================================+=============+
 | Chapter 2  | Input, Processing, and Output           | Completed   |
 +------------+-----------------------------------------+-------------+
-| Chapter 3  | Decision Structures and Boolean Logic   | In-progress |
+| Chapter 3  | Decision Structures and Boolean Logic   | Complted    |
 +------------+-----------------------------------------+-------------+
 | Chapter 4  | Repetition Structures                   |             |
 +------------+-----------------------------------------+-------------+
