@@ -13,7 +13,7 @@ This is my repository for end-of-chapter programming exercises from the book,
 +------------+-----------------------------------------+-------------+
 | Chapter 3  | Decision Structures and Boolean Logic   | In-progress |
 +------------+-----------------------------------------+-------------+
-| Chapter 4  | Repition Structures                     |             |
+| Chapter 4  | Repetition Structures                   |             |
 +------------+-----------------------------------------+-------------+
 | Chapter 5  | Functions                               |             |
 +------------+-----------------------------------------+-------------+
