@@ -12,7 +12,7 @@ valid = True
 # Get user number
 num = int(input('Enter a pocket number (0-36): '))
 
-# Determine coland
+# Determine color
 if num == 0:
     pocket = "green"
 elif num >= 1 and num <= 10:
