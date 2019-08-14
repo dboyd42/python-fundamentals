@@ -1,4 +1,4 @@
-C2: ; Input, Processing, and Output
+C2: Input, Processing, and Output
 ###################################
 :Author: David Boyd
 :Date: 2019/08
