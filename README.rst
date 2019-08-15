@@ -9,11 +9,13 @@ This is my repository for end-of-chapter programming exercises from the book,
 +------------+-----------------------------------------+-------------+
 | Chapter    | Title                                   | Status      |
 +============+=========================================+=============+
+| Chapter 1  | Intro to Computers and Programming      | N/A         |
++------------+-----------------------------------------+-------------+
 | Chapter 2  | Input, Processing, and Output           | Completed   |
 +------------+-----------------------------------------+-------------+
 | Chapter 3  | Decision Structures and Boolean Logic   | Completed   |
 +------------+-----------------------------------------+-------------+
-| Chapter 4  | Repetition Structures                   |             |
+| Chapter 4  | Repetition Structures                   | In-Progress |
 +------------+-----------------------------------------+-------------+
 | Chapter 5  | Functions                               |             |
 +------------+-----------------------------------------+-------------+
