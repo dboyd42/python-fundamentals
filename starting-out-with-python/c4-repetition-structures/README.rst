@@ -1,4 +1,4 @@
-C4: Repitition Structures
+C4: Repetition Structures
 #########################
 :Author: David Boyd
 :Date: FALL 2019
