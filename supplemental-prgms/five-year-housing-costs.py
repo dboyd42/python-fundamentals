@@ -29,7 +29,7 @@ for i in range(houses):
 for i in range(houses):
     year_sum = (init_cost[i] + ann_fuel_cost[i])
 
-    # Loop through the additional 4 years
+    # Loop through the years for running annual totals
     for year in range(time_period):
         year_rate = (year_sum * tax_rate[i])
         year_total = (year_sum + year_rate)
