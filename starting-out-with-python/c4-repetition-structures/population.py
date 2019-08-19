@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Copyright 2019 David Boyd, all rights reserved
 # Program: Population
-# Description: Preditcts the approximate size of a population of organisms.
+# Description: Predicts the approximate size of a population of organisms.
 # Status: Complete
 # Date: 2019/08/19
 
