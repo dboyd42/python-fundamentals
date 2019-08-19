@@ -15,12 +15,12 @@ C4: Repitition Structures
 +-------------------+--------------------------------------------------------+
 | Calories Burned   | Displays kcals burned in 5 min intervals               |
 +-------------------+--------------------------------------------------------+
-| Celsius to        | Displays a Celcius to farenheit table from 0-20        |
-| Farenheit Table   | degrees Celsius                                        |
+| Celsius to        | Displays a Celsius to Fahrenheit table from 0-20        |
+| Fahrenheit Table   | degrees Celsius                                        |
 +-------------------+--------------------------------------------------------+
 | Distance Traveled | Calculates distance traveled over a time period        |
 +-------------------+--------------------------------------------------------+
-| Factorial         | Calculatees the factorial of a positive integer        |
+| Factorial         | Calculates the factorial of a positive integer        |
 +-------------------+--------------------------------------------------------+
 | Ocean Levels      | Displays rising ocean levels at a rate of 1.6mm p year |
 +-------------------+--------------------------------------------------------+
