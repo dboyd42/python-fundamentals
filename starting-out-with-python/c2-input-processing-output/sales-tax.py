@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # Copyright 2019 David Boyd, all rights reserved
-
 # Program: Sales Tax
 # Description: This program calculates the state and county tax from an inputted
 #              purchase then displays the amount, taxes, and total of the sale.
@@ -23,8 +22,8 @@ total = (purchase + total_sales_tax)
 # Display totals
 print('\nTotals')
 print('=========================')
-print('Purchase Amount: ', format(purchase, ',.2f'))
-print('State Tax      : ', format(purchase_state_tax, ',.2f'))
-print('Country Tax    : ', format(purchase_county_tax, ',.2f'))
-print('Total Sales Tax: ', format(total_sales_tax, ',.2f'))
-print('Total          : ', format(total, ',.2f'))
+print('Purchase Amount: $', format(purchase, '6,.2f'), sep='')
+print('State Tax      : $', format(purchase_state_tax, '6,.2f'), sep='')
+print('Country Tax    : $', format(purchase_county_tax, '6,.2f'), sep='')
+print('Total Sales Tax: $', format(total_sales_tax, '6,.2f'), sep='')
+print('Total          : $', format(total, '6,.2f'), sep='')
