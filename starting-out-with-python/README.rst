@@ -17,7 +17,7 @@ This is my repository for end-of-chapter programming exercises from the book,
 +------------+-----------------------------------------+-------------+
 | Chapter 4  | Repetition Structures                   | Completed   |
 +------------+-----------------------------------------+-------------+
-| Chapter 5  | Functions                               |             |
+| Chapter 5  | Functions                               | In-Progress |
 +------------+-----------------------------------------+-------------+
 | Chapter 6  | Files and Exceptions                    |             |
 +------------+-----------------------------------------+-------------+
