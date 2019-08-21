@@ -2,7 +2,7 @@
 # Copyright 2019 David Boyd, all rights reserved
 # Program: Paint Job Estimator
 # Description:
-#     Caclculates the amount of materials and costs for a paint job.
+#     Calculates the amount of materials and costs for a paint job.
 # Date: 2019/08/21
 # Revised:
 #     <revision date>
