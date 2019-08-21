@@ -1,7 +1,7 @@
 Python3 Programming Fundamentals
 ###############################
 :Author: David Boyd
-:Date: SU 2019
+:Date: SU-FALL 2019
 
 This repository is a collection Python3 programs that I've written.
 
