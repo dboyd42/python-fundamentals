@@ -12,5 +12,7 @@ C5: Functions
 +-----------------------+-----------------------------------------------+
 | km Converter          | Converts km to miles                          |
 +-----------------------+-----------------------------------------------+
+| Property Tax          | Calculates assessment value and property tax  |
++-----------------------+-----------------------------------------------+
 | Sales Tax Refractored | Calculates sales and county tax of a purchase |
 +-----------------------+-----------------------------------------------+
