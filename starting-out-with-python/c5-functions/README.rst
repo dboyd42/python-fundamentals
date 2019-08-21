@@ -16,3 +16,5 @@ C5: Functions
 +-----------------------+-----------------------------------------------+
 | Sales Tax Refractored | Calculates sales and county tax of a purchase |
 +-----------------------+-----------------------------------------------+
+| Stadium Seating       | Calculates income generated from ticket sales |
++-----------------------+-----------------------------------------------+
