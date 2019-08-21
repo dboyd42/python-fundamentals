@@ -7,13 +7,19 @@
 # Revised:
 #     <revision date>
 
+# Declare global variables
+NAME  = 0  # seats index position for type NAME
+PRICE = 1  # seats index position for ticket PRICE
+SOLD  = 2  # seats index position for tickets SOLD
+TOTAL = 3  # seats index position for type ticket's income
+
 def main():
 
     # Declare variables
-    # Seats [Type, Price, Sold, Income]
+    # Seats [Type, PRICE, SOLD, TOTAL]
     seats = [ ["A", 20.00, 0, 0.00], ["B", 15.00, 0, 0.00], \
               ["C", 10.00, 0, 0.00] ]
-    income = 0.00  # total income from ticket sales
+    income = 0.00  # TOTAL income from ticket sales
 
     # Run program
     get_sales(seats)
@@ -25,45 +31,31 @@ def main():
 
 def get_sales(seats):
 
-    # Declare local variables
-    name  = 0  # seats index position for type name
-    sold  = 2  # seats index position for tickets sold
-
-    # Get tickets sold
-    print('\nEnter the number of tickets sold')
+    # Get tickets SOLD
+    print('\nEnter the number of tickets SOLD')
     print('--------------------------------')
     for type in range(len(seats)):
-        seats[type][sold] = int(input('Type ' + str(seats[type][name]) + ': '))
+        seats[type][SOLD] = int(input('Class ' + str(seats[type][NAME]) + ': '))
 
 def calc_sales(seats, income):
 
-    # Declare local variables
-    price = 1  # seats index position for ticket price
-    sold  = 2  # seats index position for tickets sold
-    total = 3  # seats index position for type ticket's income
-
+    # Calculate ticket sale & accumulate income
     for type in range(len(seats)):
-        seats[type][total] = (seats[type][price] * seats[type][sold])
-        income += seats[type][total]
+        seats[type][TOTAL] = (seats[type][PRICE] * seats[type][SOLD])
+        income += seats[type][TOTAL]
 
     return income
 
 def display(seats, income):
 
-    # Declare local variables
-    name  = 0  # seats index position for type name
-    price = 1  # seats index position for ticket price
-    sold  = 2  # seats index position for tickets sold
-    total = 3  # seats index position for type ticket's income
-
-    # Display totals
+    # Display TOTALs
     print('Totals')
-    print('======')
+    print('==============')
     for type in range(len(seats)):
-        print('Type ', seats[type][name], ' Total: $', \
-                format(seats[type][total], ',.2f'), sep='')
+        print('Class ', seats[type][NAME], ' Total: $', \
+                format(seats[type][TOTAL], ',.2f'), sep='')
     print('--------------------------------')
-    print('Total Income: $', format(income, ',.2f'), sep='')
+    print('Total Income:  $', format(income, ',.2f'), sep='')
 
-# Call the ma(in function
+# Call the main function
 main()
