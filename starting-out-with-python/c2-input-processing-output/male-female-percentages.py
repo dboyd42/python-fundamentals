@@ -21,5 +21,5 @@ female_standard_notation = (female_perc * 100)
 # Display data
 print('\nPercentages')
 print('==============')
-print('Males  : ', male_standard_notation, '%', sep='')
-print('Females: ', female_standard_notation, '%', sep='')
+print('Males  : ', format(male_standard_notation, '.2f'), '%', sep='')
+print('Females: ', format(female_standard_notation, '.2f'), '%', sep='')
