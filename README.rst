@@ -12,3 +12,4 @@ This repository is a collection Python3 programs that I've written.
 +--------------------------+----------------------------------------+
 | Supplemental Programs    | Programming challenges found elsewhere |
 +--------------------------+----------------------------------------+
+
