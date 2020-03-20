@@ -47,11 +47,11 @@ def calc_sales_tax(monthly_sales):
 ###
 def display_totals(state, county, total):
 
-    print("Total Monthly Tax")
-    print("=================")
-    print('State Tax : $', format(state, ',.2f'), sep='')
-    print('County Tax: $', format(county, ',.2f'), sep='')
-    print('Sales Tax : $', format(total, ',.2f'), sep='')
+    print("Monthly Tax")
+    print("============================")
+    print('Total State Tax : $', format(state, ',.2f'), sep='')
+    print('Total County Tax: $', format(county, ',.2f'), sep='')
+    print('Total Sales Tax : $', format(total, ',.2f'), sep='')
 
 ###
 ### Get Monthly Sales
